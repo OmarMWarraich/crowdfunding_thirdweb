@@ -6,7 +6,7 @@
     "release": "npx thirdweb@latest release"
   },
   "devDependencies": {
-    "@matterlabs/hardhat-zksync-solc": "^0.3.17",
+    "@matterlabs/hardhat-zksync-solc": "^1.3.0",
     "hardhat": "^2.13.0"
   },
   "dependencies": {
